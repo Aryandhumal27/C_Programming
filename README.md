@@ -1,2 +1,2 @@
 # C_Programming
-Programs &amp; assignments or logic building batch - C
+Programs &amp; assignments of logic building batch - C
